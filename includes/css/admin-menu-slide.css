@@ -1,0 +1,38 @@
+#adminmenuslide-toggle svg {
+	width:100%;
+	height:100%;
+	position:relative;
+	top:-7px;
+}
+#adminmenuslide-toggle { 
+	line-height: 34px;
+	clear:both;
+}
+#adminmenuslide-toggle > div {
+	height:15px;
+	width:15px;
+	margin: 10px 8px 10px 11px;
+	float:left;
+	line-height: 34px;
+}
+@media screen and (max-width:782px) { #adminmenuslide-toggle { display:none; } }
+
+
+body.admin-menu-slide #wpwrap #adminmenuback {
+	left:-155px;
+}
+
+body.admin-menu-slide #wpwrap #adminmenuwrap {
+	left:-160px;
+	padding-right:5px;
+}
+
+body.folded.admin-menu-slide #wpwrap #adminmenuwrap {
+	left:-36px;
+}
+
+body.folded.admin-menu-slide #wpwrap #adminmenuback {
+	left:-31px;
+}
+
+body.admin-menu-slide #wpcontent { margin-left:0px; }
