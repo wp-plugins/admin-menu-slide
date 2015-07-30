@@ -1,4 +1,4 @@
-===WindowPress - The wp-admin Desktop===
+===Admin Menu Slide===
 Contributors: helium-3
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5UC9VG3Q687N
 Tags: plugin, admin, page, sidebar, administration, dashboard, free, javascript, jquery, menu, mobile, navigation, performance, plugins, wordpress, backend
